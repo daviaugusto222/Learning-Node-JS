@@ -1,0 +1,23 @@
+{
+  "name": "learning-node-js",
+  "version": "1.0.0",
+  "description": "Aprendendo uma nova tecnologia",
+  "main": "produtos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviaugusto222/Learning-Node-JS.git"
+  },
+  "author": "David Augusto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviaugusto222/Learning-Node-JS/issues"
+  },
+  "homepage": "https://github.com/daviaugusto222/Learning-Node-JS#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
